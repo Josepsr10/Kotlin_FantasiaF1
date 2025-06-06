@@ -1,5 +1,4 @@
-**Fantasía F1** es un juego desarrollado en Kotlin que te permite vivir la experiencia de gestionar tu propia liga de Fórmula 1 de fantasía.
-
+**Fantasía F1** es un juego desarrollado en Kotlin que te permite vivir la experiencia de gestionar tu propia liga de Fórmula 1.
 ## Características principales
 
 - Registro de usuarios
